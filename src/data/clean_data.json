@@ -1,0 +1,310 @@
+{
+  "3017860": {
+    "name": "DOOM: The Dark Ages",
+    "developers": [
+      "id Software"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "currency": 73.84,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "release_date": "14 May, 2025"
+  },
+  "1903340": {
+    "name": "Clair Obscur: Expedition 33",
+    "developers": [
+      "Sandfall Interactive"
+    ],
+    "publishers": [
+      "Kepler Interactive"
+    ],
+    "currency": 40.04,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "24 Apr, 2025"
+  },
+  "3164500": {
+    "name": "Schedule I",
+    "developers": [
+      "TVGS"
+    ],
+    "publishers": [
+      "TVGS"
+    ],
+    "currency": 16.25,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "release_date": "24 Mar, 2025"
+  },
+  "2623190": {
+    "name": "The Elder Scrolls IV: Oblivion Remastered",
+    "developers": [
+      "Bethesda Game Studios",
+      "Virtuos"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "currency": 51.870000000000005,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "RPG"
+    ],
+    "release_date": "22 Apr, 2025"
+  },
+  "553850": {
+    "name": "HELLDIVERS\u2122 2",
+    "developers": [
+      "Arrowhead Game Studios"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ],
+    "currency": 40.04,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "release_date": "8 Feb, 2024"
+  },
+  "3241660": {
+    "name": "R.E.P.O.",
+    "developers": [
+      "semiwork"
+    ],
+    "publishers": [
+      "semiwork"
+    ],
+    "currency": 8.58,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Early Access"
+    ],
+    "release_date": "26 Feb, 2025"
+  },
+  "281990": {
+    "name": "Stellaris",
+    "developers": [
+      "Paradox Development Studio"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ],
+    "currency": 33.54,
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "9 May, 2016"
+  },
+  "381210": {
+    "name": "Dead by Daylight",
+    "developers": [
+      "Behaviour Interactive Inc."
+    ],
+    "publishers": [
+      "Behaviour Interactive Inc."
+    ],
+    "currency": 12.35,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "release_date": "14 Jun, 2016"
+  },
+  "1086940": {
+    "name": "Baldur's Gate 3",
+    "developers": [
+      "Larian Studios"
+    ],
+    "publishers": [
+      "Larian Studios"
+    ],
+    "currency": 51.870000000000005,
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "release_date": "3 Aug, 2023"
+  },
+  "306130": {
+    "name": "The Elder Scrolls\u00ae Online",
+    "developers": [
+      "ZeniMax Online Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "currency": 20.150000000000002,
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Trading Cards",
+      "Captions available",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "release_date": "22 May, 2017"
+  }
+}

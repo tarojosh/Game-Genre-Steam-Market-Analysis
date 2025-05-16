@@ -1,0 +1,31 @@
+# NOTES: Things that I think should be considered are 
+# name
+# steam_appid
+# supported_languages
+    # Gonna need some regex and NLP in order to parse this to just be the names of languages.
+# developers
+# publishers
+# price_overview
+    # It's all in HKD (Hong Kong Dollar) so just convert it to USD
+# platforms
+    # Keys are names of platform, with values of either true or false
+# categories
+    # List of dictionaries; from those dictionaries select the description keys
+# genres
+    # List of dictionaries; from those dictionaries select the description keys
+# release_date
+    # Select date key
+
+# Removed:
+# pc_requirements, mac_requirements, linux_requirements
+    # were removed due to not being feasible of scanning (may be possible with regex and such, but would have to consider all names of technology)
+# ratings 
+
+# considerations = [
+#     'name', 'steam_appid', 'supported_languages', 
+#     'developers', 'publishers', 'price_overview', 
+#     'platforms', 'categories', 'genres', 
+#     'release_date' ]
+
+# for label in considerations:
+#     print(f"{label}:\n\t{data[1]['appdetail']['data'][label]}")
