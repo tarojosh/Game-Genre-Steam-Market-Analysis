@@ -25,6 +25,7 @@
     "genres": [
       "Action"
     ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
     "release_date": "14 May, 2025"
   },
   "1903340": {
@@ -52,6 +53,7 @@
       "Action",
       "RPG"
     ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
     "release_date": "24 Apr, 2025"
   },
   "3164500": {
@@ -84,6 +86,7 @@
       "Strategy",
       "Early Access"
     ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
     "release_date": "24 Mar, 2025"
   },
   "2623190": {
@@ -112,6 +115,7 @@
     "genres": [
       "RPG"
     ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
     "release_date": "22 Apr, 2025"
   },
   "553850": {
@@ -140,6 +144,7 @@
     "genres": [
       "Action"
     ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
     "release_date": "8 Feb, 2024"
   },
   "3241660": {
@@ -168,6 +173,7 @@
       "Action",
       "Early Access"
     ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
     "release_date": "26 Feb, 2025"
   },
   "281990": {
@@ -198,6 +204,7 @@
       "Simulation",
       "Strategy"
     ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
     "release_date": "9 May, 2016"
   },
   "381210": {
@@ -233,6 +240,7 @@
     "genres": [
       "Action"
     ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
     "release_date": "14 Jun, 2016"
   },
   "1086940": {
@@ -269,6 +277,7 @@
       "RPG",
       "Strategy"
     ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
     "release_date": "3 Aug, 2023"
   },
   "306130": {
@@ -305,6 +314,470 @@
       "Massively Multiplayer",
       "RPG"
     ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
     "release_date": "22 May, 2017"
+  },
+  "2625420": {
+    "name": "Drive Beyond Horizons",
+    "developers": [
+      "Drive Beyond Horizons"
+    ],
+    "publishers": [
+      "Tacty Studio",
+      "Santor Games"
+    ],
+    "currency": 20.28,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Early Access"
+    ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "release_date": "24 Mar, 2025"
+  },
+  "1771300": {
+    "name": "Kingdom Come: Deliverance II",
+    "developers": [
+      "Warhorse Studios"
+    ],
+    "publishers": [
+      "Deep Silver"
+    ],
+    "currency": 58.368700000000004,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "release_date": "4 Feb, 2025"
+  },
+  "1091500": {
+    "name": "Cyberpunk 2077",
+    "developers": [
+      "CD PROJEKT RED"
+    ],
+    "publishers": [
+      "CD PROJEKT RED"
+    ],
+    "currency": 51.870000000000005,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "RPG"
+    ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "release_date": "9 Dec, 2020"
+  },
+  "359550": {
+    "name": "Tom Clancy's Rainbow Six\u00ae Siege",
+    "developers": [
+      "Ubisoft Montreal"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "currency": 19.240000000000002,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Full controller support",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "release_date": "1 Dec, 2015"
+  },
+  "2878980": {
+    "name": "NBA 2K25",
+    "developers": [
+      "Visual Concepts"
+    ],
+    "publishers": [
+      "2K"
+    ],
+    "currency": 71.24000000000001,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "release_date": "28 Oct, 2024"
+  },
+  "252490": {
+    "name": "Rust",
+    "developers": [
+      "Facepunch Studios"
+    ],
+    "publishers": [
+      "Facepunch Studios"
+    ],
+    "currency": 30.94,
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Remote Play on Tablet"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "release_date": "8 Feb, 2018"
+  },
+  "490110": {
+    "name": "The Precinct",
+    "developers": [
+      "Fallen Tree Games Ltd"
+    ],
+    "publishers": [
+      "Kwalee"
+    ],
+    "currency": 24.310000000000002,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation"
+    ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "release_date": "13 May, 2025"
+  },
+  "2531310": {
+    "name": "The Last of Us\u2122 Part II Remastered",
+    "developers": [
+      "Naughty Dog LLC",
+      "Nixxes Software",
+      "Iron Galaxy Studios"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ],
+    "currency": 51.74,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "release_date": "3 Apr, 2025"
+  },
+  "1245620": {
+    "name": "ELDEN RING",
+    "developers": [
+      "FromSoftware, Inc."
+    ],
+    "publishers": [
+      "FromSoftware, Inc.",
+      "Bandai Namco Entertainment"
+    ],
+    "currency": 62.27,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "release_date": "24 Feb, 2022"
+  },
+  "2001120": {
+    "name": "Split Fiction",
+    "developers": [
+      "Hazelight Studios"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "currency": 51.870000000000005,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Cloud",
+      "Remote Play Together",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "release_date": "6 Mar, 2025"
+  },
+  "294100": {
+    "name": "RimWorld",
+    "developers": [
+      "Ludeon Studios"
+    ],
+    "publishers": [
+      "Ludeon Studios"
+    ],
+    "currency": 24.57,
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "categories": [
+      "Single-player",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "release_date": "17 Oct, 2018"
+  },
+  "1569580": {
+    "name": "Blue Prince",
+    "developers": [
+      "Dogubomb"
+    ],
+    "publishers": [
+      "Raw Fury"
+    ],
+    "currency": 24.310000000000002,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "release_date": "10 Apr, 2025"
+  },
+  "1203620": {
+    "name": "Enshrouded",
+    "developers": [
+      "Keen Games GmbH"
+    ],
+    "publishers": [
+      "Keen Games GmbH"
+    ],
+    "currency": 18.07,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Early Access"
+    ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "release_date": "24 Jan, 2024"
+  },
+  "1151340": {
+    "name": "Fallout 76",
+    "developers": [
+      "Bethesda Game Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "currency": 40.300000000000004,
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Remote Play on Tablet"
+    ],
+    "genres": [
+      "RPG"
+    ],
+    "product_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "release_date": "14 Apr, 2020"
   }
 }
