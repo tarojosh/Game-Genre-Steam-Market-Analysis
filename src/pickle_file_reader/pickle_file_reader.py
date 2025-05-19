@@ -1,28 +1,42 @@
 import pickle
 import json
+from datetime import datetime
+import sys
 
-file = "src\data\popularnew_20250515.pkl"
-output_path = 'src\data\clean_data.json'
+raw_data_path = 'src\data\\raw'
+clean_data_path = 'src\data\clean'
+category = 'topsellers'
 
 
 def main():
     # Get the scraped data
-    data = read_pickle_data(file)
+    current_date = datetime.now().strftime('%Y%m%d')
+    get_file = f'{raw_data_path}\{category}_{current_date}.pkl'
+
+    data = read_pickle_data(get_file)
     print(f"[INFO] Obtained data with {len(data)} titles.")
 
     # Clean data to be only what we find important
     clean_data = get_clean_data(data)
 
     # Write the clean data to a json file
-    with open(output_path, 'w') as f:
-        json.dump(clean_data, f, indent=2)
-        print(f"[SUCCESS] Wrote clean data to \'{output_path}\' for {len(clean_data)} titles.")
+    output_file_path = f'{clean_data_path}\{category}_{current_date}.json'
+    try:
+        with open(output_file_path, 'w') as f:
+            json.dump(clean_data, f, indent=2)
+            print(f"[SUCCESS] Wrote clean data to \'{output_file_path}\' for {len(clean_data)} titles.")
+    except Exception as e:
+        print(f"[ERROR] {e}")
 
 
 def read_pickle_data(filepath):
-    with open(filepath, 'rb') as f:
-        data = pickle.load(f)
-    return data
+    try:
+        with open(filepath, 'rb') as f:
+            data = pickle.load(f)
+        return data
+    except Exception as e:
+        print(f"[ERROR] Unable to open file path \'{filepath}\'. {e}")
+        sys.exit(0)
 
 
 # CLEANING THE DATA -------------------------------- #
@@ -38,8 +52,6 @@ def get_clean_data(data: list) -> dict:
         try:
             steam_appid = data[i]['appdetail']['data']['steam_appid']
             name = data[i]['name']
-            product_languages = data[1]['appdetail']['data']['supported_languages']
-            # TODO: DO REGEX and NLP stuff for this
             developers = data[i]['appdetail']['data']['developers']  # There can be multiple, store as array
             publishers = data[i]['appdetail']['data']['publishers']  # There can be multiple, store as array
             currency = _convert_hkd_to_usd(data[i]['appdetail']['data']['price_overview']['initial'])  # Convert this to USD later
@@ -56,11 +68,10 @@ def get_clean_data(data: list) -> dict:
                 'platforms': platforms,
                 'categories': categories,
                 'genres': genres,
-                'product_languages': product_languages,
                 'release_date': release_date,
             }
         except KeyError as e:
-            print(f"[ERROR]: Unable to get key {e} from \'{data[i]['name']}\'. Excluding that title from the list of clean data.")
+            print(f"[WARNING]: Unable to get key {e} from \'{data[i]['name']}\'. Excluding that title from the list of clean data.")
             continue
     
     print("[INFO] Returned clean data.")
@@ -77,10 +88,25 @@ def _get_descriptions(content: dict) -> list:
 
 
 def _convert_hkd_to_usd(hkd: int):
-    # TODO: Pricing isn't exactly what the user pays, or even that accurate
-    #       (R.E.P.O is $9.99, but this results in $8.58; Helldivers 2 is $39.99, but this results in $40.04)
-    #       This isn't a case of it being the actual value of the cut the devs get, this is something to do with this math.
-    return (hkd / 100) * 0.13 
+    # TODO: Instead of getting the exact amount of money, make it a price bucket.
+    #       This makes sorting data easier as you can just group multiple titles in "Under $5", "$5-$10", "$10-$20", etc.
+    usd_estimate = (hkd / 100) * 0.13
+    if usd_estimate < 5.0:
+        return "Less than $5"
+    elif usd_estimate < 10.0:
+        return "$5-$10" 
+    elif usd_estimate < 20.0:
+        return "$10-$20" 
+    elif usd_estimate < 30.0:
+        return "$20-$30" 
+    elif usd_estimate < 40.0:
+        return "$30-$40" 
+    elif usd_estimate < 50.0:
+        return "$40-$50" 
+    elif usd_estimate < 60.0:
+        return "$50-$60" 
+    else:
+        return "More than $60" 
 
 
 if __name__ == '__main__':
