@@ -3,6 +3,9 @@
 import pandas as pd
 import json
 import sys
+from datetime import datetime
+
+output_file_path = 'src\data\\formatted_csv_files'
 
 all_genres: list = []
 all_categories: list = []
@@ -10,7 +13,8 @@ all_categories: list = []
 def main():
     # NOTE: You'll need to expand this by allowing for multiple files within a directory
     #       if you want to take into account multiple snapshots of data.
-    data = get_data('src\data\clean\\topsellers_20250518.json')  
+    current_date = datetime.now().strftime('%Y%m%d')
+    data = get_data(f'src\data\clean\\topsellers_{current_date}.json')  
 
     # Go through genres and categories and append each unique value to the respective list above before adding rows
     build_categories_and_genres(data)
@@ -19,8 +23,10 @@ def main():
     flat_data = [flatten_data(appid, data[appid]) for appid in data]
     
     # And put it in a dataframe
+    final_path = f"{output_file_path}\steam_topsellers_{current_date}.csv"
     df = pd.DataFrame(flat_data)
-    df.to_csv("steam_games_clean.csv", index=False)
+    df.to_csv(final_path, index=False)
+    print(f"[SUCCESS] csv file written to \'{final_path}\'.")
 
 
 def flatten_data(appid, game):

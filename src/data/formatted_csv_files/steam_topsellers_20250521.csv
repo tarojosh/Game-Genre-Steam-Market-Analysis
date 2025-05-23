@@ -1,0 +1,49 @@
+appid,name,developers,publishers,currency,windows,linux,mac,release_date,genre_rpg,genre_action,genre_casual,genre_strategy,genre_adventure,genre_early access,genre_racing,genre_massively multiplayer,genre_simulation,genre_indie,genre_sports,cat_downloadable_content,cat_valve_anti-cheat_enabled,cat_full_controller_support,cat_in-app_purchases,cat_hdr_available,cat_online_pvp,cat_shared/split_screen,cat_mmo,cat_captions_available,cat_steam_trading_cards,cat_shared/split_screen_co-op,cat_shared/split_screen_pvp,cat_steam_workshop,cat_stats,cat_remote_play_together,cat_includes_level_editor,cat_cross-platform_multiplayer,cat_pvp,cat_online_co-op,cat_family_sharing,cat_single-player,cat_co-op,cat_remote_play_on_tv,cat_steam_achievements,cat_lan_co-op,cat_remote_play_on_phone,cat_multi-player,cat_remote_play_on_tablet,cat_partial_controller_support,cat_steam_cloud,cat_steam_leaderboards
+553850,HELLDIVERS™ 2,Arrowhead Game Studios,PlayStation Publishing LLC,$40-$50,1,0,0,2024-02-08,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,0,1,0,0
+2993780,FANTASY LIFE i: The Girl Who Steals Time,LEVEL5 Inc.,LEVEL5 Inc.,$50-$60,1,0,0,2025-05-21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,1,0,0,1,0
+2104890,RoadCraft,Saber Interactive,Focus Entertainment,$30-$40,1,0,0,2025-05-20,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0,1,0
+2742830,Monster Train 2,Shiny Shoe,Big Fan Games,$20-$30,1,0,0,2025-05-21,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+1903340,Clair Obscur: Expedition 33,Sandfall Interactive,Kepler Interactive,$40-$50,1,0,0,2025-04-24,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+1091500,Cyberpunk 2077,CD PROJEKT RED,CD PROJEKT RED,$50-$60,1,0,0,2020-12-09,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+3017860,DOOM: The Dark Ages,id Software,Bethesda Softworks,More than $60,1,0,0,2025-05-14,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+1086940,Baldur's Gate 3,Larian Studios,Larian Studios,$50-$60,1,0,1,2023-08-03,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1,1,1,1,1,1,0,1,0,0,1,0
+2622380,ELDEN RING NIGHTREIGN,"FromSoftware, Inc.","FromSoftware, Inc.",$30-$40,1,0,0,2025-05-29,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0,1,0
+292030,The Witcher 3: Wild Hunt,CD PROJEKT RED,CD PROJEKT RED,$40-$50,1,0,0,2015-05-18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,1,1,0
+1174180,Red Dead Redemption 2,Rockstar Games,Rockstar Games,More than $60,1,0,0,2019-12-05,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,1,1,1,1,0,0
+3164500,Schedule I,TVGS,TVGS,$10-$20,1,0,0,2025-03-24,0,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0,1,0
+2623190,The Elder Scrolls IV: Oblivion Remastered,Bethesda Game Studios,Bethesda Softworks,$50-$60,1,0,0,2025-04-22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0
+2138330,Cyberpunk 2077: Phantom Liberty,CD PROJEKT RED,CD PROJEKT RED,$20-$30,1,0,0,2023-09-25,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+1144200,Ready or Not,VOID Interactive,VOID Interactive,$20-$30,1,0,0,2023-12-13,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,1,0,0,1,0
+381210,Dead by Daylight,Behaviour Interactive Inc.,Behaviour Interactive Inc.,$10-$20,1,0,0,2016-06-14,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,1,1,0,1,1,1,0,1,0
+3241660,R.E.P.O.,semiwork,semiwork,$5-$10,1,0,0,2025-02-26,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,0
+990080,Hogwarts Legacy,Avalanche Software,Warner Bros. Games,More than $60,1,0,0,2023-02-10,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+1237950,STAR WARS™ Battlefront™ II,DICE,Electronic Arts,$30-$40,1,0,0,2020-06-11,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
+1284190,The Planet Crafter,Miju Games,Miju Games,$20-$30,1,0,0,2024-04-10,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0,0,0
+359550,Tom Clancy's Rainbow Six® Siege,Ubisoft Montreal,Ubisoft,$10-$20,1,0,0,2015-12-01,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,1,1,0,0,0
+306130,The Elder Scrolls® Online,ZeniMax Online Studios,Bethesda Softworks,$20-$30,1,0,1,2017-05-22,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,1,0,0
+1172710,Dune: Awakening,Funcom,Funcom,$40-$50,1,0,0,2025-06-10,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,1,0,0
+252490,Rust,Facepunch Studios,Facepunch Studios,$30-$40,1,0,1,2018-02-08,1,1,0,0,1,0,0,1,0,1,0,0,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1,1,0,0,1,0,1,0,0,1,1,0,0,0
+2878980,NBA 2K25,Visual Concepts,2K,More than $60,1,0,0,2024-10-28,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0,1,1,0,0,1,0,0,1,1,1,1,1,0,1,0,0,1,0,1,1,0
+3489700,Stellar Blade™,SHIFT UP Corporation,PlayStation Publishing LLC (excluding China),More than $60,1,0,0,2025-06-11,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+2625420,Drive Beyond Horizons,Drive Beyond Horizons,Tacty Studio,$20-$30,1,0,0,2025-03-24,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0,1,1
+1151340,Fallout 76,Bethesda Game Studios,Bethesda Softworks,$40-$50,1,0,0,2020-04-14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,1,1,1,0,0
+1203620,Enshrouded,Keen Games GmbH,Keen Games GmbH,$10-$20,1,0,0,2024-01-24,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0,1,0
+2340520,Tales of Seikyu,ACE Entertainment,Fireshine Games,$20-$30,1,0,0,2025-05-21,1,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+1245620,ELDEN RING,"FromSoftware, Inc.","FromSoftware, Inc.",More than $60,1,0,0,2022-02-24,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,0,0,1,0
+632360,Risk of Rain 2,Hopoo Games,Gearbox Publishing,$10-$20,1,0,0,2020-08-11,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+281990,Stellaris,Paradox Development Studio,Paradox Interactive,$30-$40,1,1,1,2016-05-09,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1,0,0,1,0,0,1,0,0,1,0
+1401590,Disney Dreamlight Valley,Gameloft,Gameloft,$40-$50,1,0,0,2023-12-05,1,1,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+1190970,House Flipper 2,Frozen District,Frozen District,$20-$30,1,0,0,2023-12-14,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0,1,0,0,1,0
+1244090,Sea of Stars,Sabotage Studio,Sabotage Studio,$20-$30,1,0,0,2023-08-28,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,0,1,0
+39210,FINAL FANTASY XIV Online,Square Enix,Square Enix,$10-$20,1,0,0,2014-02-18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0
+270880,American Truck Simulator,SCS Software,SCS Software,$10-$20,1,1,1,2016-02-02,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,1,1,1,1,0,1,0,0,1,0,1,1,0
+294100,RimWorld,Ludeon Studios,Ludeon Studios,$20-$30,1,1,1,2018-10-17,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0
+1569580,Blue Prince,Dogubomb,Raw Fury,$20-$30,1,0,0,2025-04-10,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+2531310,The Last of Us™ Part II Remastered,Naughty Dog LLC,PlayStation Publishing LLC,$50-$60,1,0,0,2025-04-03,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+490110,The Precinct,Fallen Tree Games Ltd,Kwalee,$20-$30,1,0,0,2025-05-13,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+1466060,Tainted Grail: The Fall of Avalon,Questline,Awaken Realms,$30-$40,1,0,0,2023-03-30,1,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+2001120,Split Fiction,Hazelight Studios,Electronic Arts,$50-$60,1,0,0,2025-03-06,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,1,0,0,0,1,0,1,0,1,1,0,1,0,1,0,0,1,0,0,1,0
+1104280,The Slormancer,Slormite Studios,Slormite Studios,$10-$20,1,0,0,2025-05-13,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+3240220,Grand Theft Auto V Enhanced,Rockstar North,Rockstar Games,$30-$40,1,0,0,2025-03-04,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,1,1,1,1,0,0
+2385530,PGA TOUR 2K25,HB Studios,2K,More than $60,1,0,0,2025-02-27,1,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,0,0,0,0
+2933620,Call of Duty®: Black Ops 6,Treyarch,Activision,More than $60,1,0,0,2024-10-24,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,1,0,1,0,0,1,0,0,0,0

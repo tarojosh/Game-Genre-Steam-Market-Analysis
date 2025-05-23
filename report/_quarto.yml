@@ -1,0 +1,9 @@
+project:
+  output-dir: .
+
+
+format:
+  html:
+    html-math-method: katex
+    smooth-scroll: true
+    embed-resources: true
