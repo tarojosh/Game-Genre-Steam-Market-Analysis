@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 def main():
-    data = pd.read_csv('src\data\\formatted_csv_files\steam_topsellers_20250518.csv', index_col=0)
+    data = pd.read_csv('src\data\\formatted_csv_files\steam_topsellers_20250524.csv', index_col=0)
     find_top_genres(data)
 
 
@@ -22,6 +22,10 @@ def find_top_genres(data):
     plt.title("Total Games per Genre")
     plt.tight_layout()
     plt.show()
+
+
+def find_top_prices(data):
+    pass
 
 
 if __name__ == '__main__':

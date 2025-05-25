@@ -1,5 +1,5 @@
 ---
-title: Top Selling Genres on Steam
+title: 'Top Selling Genres on Steam: Analysis on Market Trends in PC Gaming'
 author:
   - name: Josh Tarongoy
     email: tarongoyjk@gmail.com
@@ -8,4 +8,54 @@ date: last-modified
 
 # Abstract
 
-Lorem ipsum
+(One paragraph that summarizes the report and gives the findings of the results.)
+
+# Introduction
+
+(What is the question(s) that this study is trying to answer? Who is this for/why is this relevant?)
+
+# Methods
+
+## Data Collection
+
+(How did you collect the data and how often did you obtain snapshots? What sort of challenges did you face while trying to procure the data? What sort of decisions did you have to make when you obtained the data?)
+
+## Data Processing
+
+(How did you process the raw data obtained from the tools used? What fields of the data did you remove? How did you handle inconsistent fields?)
+
+(Also display the data in a table format.)
+
+# Analysis
+
+(Show the graphs created with your tools. Provide some contextual explanations for each, maybe.)
+
+* Show the top selling genres
+
+* Show the frequent price bucketing of the top selling games
+
+* If you have the time, use a line-graph to show the placement of each, individual game is on the top-selling chart (shows how much staying power each game has.)
+
+# Insights
+
+(Here is where you actually delve deeper into the findings and try to make connections.)
+
+* Of the top 50 games on Steam's `Top Sellers` page, the top 3 consistent genres are `Action`, `RPG`, and `Adventure`.
+
+* Meanwhile, the lowest 3 genres were consistently `racing`, `casual`, and `sports`.
+
+* It should be noted that a single game can have multiple genre tags associated with it.
+
+* Also noted that this means that while the top 3 genres are popular with the market, it also means that there's a lot of competition;
+
+* Even though the lowest 3 genres were not as made frequently, it should still be noted that games with those tags made it to the top 50 top-selling games.
+
+* (Talk about if prices have an affect on top-selling placement.)
+
+# Discussion
+
+* Talk about any potential errors or mistakes from your methods
+
+  * `Path of Exile 2` was a game that was within the top 50 top-selling games, but was removed as for some reason, the `appdetails` doesn't contain a `data` key, which is important as it contains the genre tags, price, platforms, categories, etc. that are required to perform data analysis.
+
+# References
