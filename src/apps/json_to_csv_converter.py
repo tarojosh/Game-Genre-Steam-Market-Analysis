@@ -13,7 +13,8 @@ all_categories: list = []
 def main():
     # NOTE: You'll need to expand this by allowing for multiple files within a directory
     #       if you want to take into account multiple snapshots of data.
-    current_date = datetime.now().strftime('%Y%m%d')
+    # current_date = datetime.now().strftime('%Y%m%d')
+    current_date = "20250521"
     data = get_data(f'src\data\clean\\topsellers_{current_date}.json')  
 
     # Go through genres and categories and append each unique value to the respective list above before adding rows
@@ -33,6 +34,7 @@ def flatten_data(appid, game):
     row = {
         "appid": appid,
         "name": game['name'],
+        "placement": game['placement'][0],
         "developers": game['developers'][0] if game['developers'] else "",
         "publishers": game['publishers'][0] if game['publishers'] else "",
         "currency": game['currency'],

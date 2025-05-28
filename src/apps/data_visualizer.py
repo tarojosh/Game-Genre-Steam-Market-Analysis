@@ -3,8 +3,9 @@ import numpy as np
 import pandas as pd
 
 def main():
-    data = pd.read_csv('src\data\\formatted_csv_files\steam_topsellers_20250524.csv', index_col=0)
+    data = pd.read_csv('src\data\\formatted_csv_files\steam_topsellers_20250528.csv', index_col=0)
     find_top_genres(data)
+    # find_most_common_top_prices(data)
 
 
 def find_top_genres(data):
@@ -24,8 +25,18 @@ def find_top_genres(data):
     plt.show()
 
 
-def find_top_prices(data):
-    pass
+def find_most_common_top_prices(data):
+    price_counts = data['currency'].value_counts()
+    print(price_counts)
+    price_counts = price_counts.sort_values(ascending=False)
+
+    plt.bar(price_counts.index, price_counts.values, color='skyblue')
+    plt.xticks(rotation=45, ha='right')
+    plt.ylabel("Number of Games")
+    plt.title("Most Common Price Range")
+    plt.tight_layout()
+    plt.show()
+
 
 
 if __name__ == '__main__':

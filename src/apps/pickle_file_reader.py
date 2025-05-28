@@ -50,6 +50,7 @@ def get_clean_data(data: list) -> dict:
 
     for i in range(len(data)):
         try:
+            placement = i,
             steam_appid = data[i]['appdetail']['data']['steam_appid']
             name = data[i]['name']
             developers = data[i]['appdetail']['data']['developers']  # There can be multiple, store as array
@@ -59,8 +60,9 @@ def get_clean_data(data: list) -> dict:
             categories = _get_descriptions(data[i]['appdetail']['data']['categories'])
             genres = _get_descriptions(data[i]['appdetail']['data']['genres'])
             release_date = data[i]['appdetail']['data']['release_date']['date']
-
+            
             new_data[steam_appid] = {
+                "placement": placement,
                 'name': name,
                 'developers': developers,
                 'publishers': publishers,

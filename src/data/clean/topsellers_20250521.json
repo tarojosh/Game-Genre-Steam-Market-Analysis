@@ -1,5 +1,8 @@
 {
   "553850": {
+    "placement": [
+      0
+    ],
     "name": "HELLDIVERS\u2122 2",
     "developers": [
       "Arrowhead Game Studios"
@@ -28,6 +31,9 @@
     "release_date": "8 Feb, 2024"
   },
   "2993780": {
+    "placement": [
+      1
+    ],
     "name": "FANTASY LIFE i: The Girl Who Steals Time",
     "developers": [
       "LEVEL5 Inc."
@@ -59,6 +65,9 @@
     "release_date": "21 May, 2025"
   },
   "2104890": {
+    "placement": [
+      3
+    ],
     "name": "RoadCraft",
     "developers": [
       "Saber Interactive"
@@ -90,6 +99,9 @@
     "release_date": "20 May, 2025"
   },
   "2742830": {
+    "placement": [
+      4
+    ],
     "name": "Monster Train 2",
     "developers": [
       "Shiny Shoe"
@@ -118,6 +130,9 @@
     "release_date": "21 May, 2025"
   },
   "1903340": {
+    "placement": [
+      5
+    ],
     "name": "Clair Obscur: Expedition 33",
     "developers": [
       "Sandfall Interactive"
@@ -145,6 +160,9 @@
     "release_date": "24 Apr, 2025"
   },
   "1091500": {
+    "placement": [
+      6
+    ],
     "name": "Cyberpunk 2077",
     "developers": [
       "CD PROJEKT RED"
@@ -172,6 +190,9 @@
     "release_date": "9 Dec, 2020"
   },
   "3017860": {
+    "placement": [
+      7
+    ],
     "name": "DOOM: The Dark Ages",
     "developers": [
       "id Software"
@@ -200,6 +221,9 @@
     "release_date": "14 May, 2025"
   },
   "1086940": {
+    "placement": [
+      8
+    ],
     "name": "Baldur's Gate 3",
     "developers": [
       "Larian Studios"
@@ -236,6 +260,9 @@
     "release_date": "3 Aug, 2023"
   },
   "2622380": {
+    "placement": [
+      9
+    ],
     "name": "ELDEN RING NIGHTREIGN",
     "developers": [
       "FromSoftware, Inc."
@@ -267,6 +294,9 @@
     "release_date": "29 May, 2025"
   },
   "292030": {
+    "placement": [
+      10
+    ],
     "name": "The Witcher 3: Wild Hunt",
     "developers": [
       "CD PROJEKT RED"
@@ -297,6 +327,9 @@
     "release_date": "18 May, 2015"
   },
   "1174180": {
+    "placement": [
+      11
+    ],
     "name": "Red Dead Redemption 2",
     "developers": [
       "Rockstar Games"
@@ -330,6 +363,9 @@
     "release_date": "5 Dec, 2019"
   },
   "3164500": {
+    "placement": [
+      12
+    ],
     "name": "Schedule I",
     "developers": [
       "TVGS"
@@ -362,6 +398,9 @@
     "release_date": "24 Mar, 2025"
   },
   "2623190": {
+    "placement": [
+      13
+    ],
     "name": "The Elder Scrolls IV: Oblivion Remastered",
     "developers": [
       "Bethesda Game Studios",
@@ -390,6 +429,9 @@
     "release_date": "22 Apr, 2025"
   },
   "2138330": {
+    "placement": [
+      14
+    ],
     "name": "Cyberpunk 2077: Phantom Liberty",
     "developers": [
       "CD PROJEKT RED"
@@ -418,6 +460,9 @@
     "release_date": "25 Sep, 2023"
   },
   "1144200": {
+    "placement": [
+      15
+    ],
     "name": "Ready or Not",
     "developers": [
       "VOID Interactive"
@@ -448,6 +493,9 @@
     "release_date": "13 Dec, 2023"
   },
   "381210": {
+    "placement": [
+      16
+    ],
     "name": "Dead by Daylight",
     "developers": [
       "Behaviour Interactive Inc."
@@ -483,6 +531,9 @@
     "release_date": "14 Jun, 2016"
   },
   "3241660": {
+    "placement": [
+      17
+    ],
     "name": "R.E.P.O.",
     "developers": [
       "semiwork"
@@ -511,6 +562,9 @@
     "release_date": "26 Feb, 2025"
   },
   "990080": {
+    "placement": [
+      18
+    ],
     "name": "Hogwarts Legacy",
     "developers": [
       "Avalanche Software"
@@ -541,6 +595,9 @@
     "release_date": "10 Feb, 2023"
   },
   "1237950": {
+    "placement": [
+      19
+    ],
     "name": "STAR WARS\u2122 Battlefront\u2122 II",
     "developers": [
       "DICE"
@@ -569,6 +626,9 @@
     "release_date": "11 Jun, 2020"
   },
   "1284190": {
+    "placement": [
+      20
+    ],
     "name": "The Planet Crafter",
     "developers": [
       "Miju Games"
@@ -597,6 +657,9 @@
     "release_date": "10 Apr, 2024"
   },
   "359550": {
+    "placement": [
+      21
+    ],
     "name": "Tom Clancy's Rainbow Six\u00ae Siege",
     "developers": [
       "Ubisoft Montreal"
@@ -629,6 +692,9 @@
     "release_date": "1 Dec, 2015"
   },
   "306130": {
+    "placement": [
+      22
+    ],
     "name": "The Elder Scrolls\u00ae Online",
     "developers": [
       "ZeniMax Online Studios"
@@ -665,6 +731,9 @@
     "release_date": "22 May, 2017"
   },
   "1172710": {
+    "placement": [
+      23
+    ],
     "name": "Dune: Awakening",
     "developers": [
       "Funcom"
@@ -697,6 +766,9 @@
     "release_date": "10 Jun, 2025"
   },
   "252490": {
+    "placement": [
+      24
+    ],
     "name": "Rust",
     "developers": [
       "Facepunch Studios"
@@ -736,6 +808,9 @@
     "release_date": "8 Feb, 2018"
   },
   "2878980": {
+    "placement": [
+      25
+    ],
     "name": "NBA 2K25",
     "developers": [
       "Visual Concepts"
@@ -773,6 +848,9 @@
     "release_date": "28 Oct, 2024"
   },
   "3489700": {
+    "placement": [
+      26
+    ],
     "name": "Stellar Blade\u2122",
     "developers": [
       "SHIFT UP Corporation"
@@ -803,6 +881,9 @@
     "release_date": "11 Jun, 2025"
   },
   "2625420": {
+    "placement": [
+      27
+    ],
     "name": "Drive Beyond Horizons",
     "developers": [
       "Drive Beyond Horizons"
@@ -839,6 +920,9 @@
     "release_date": "24 Mar, 2025"
   },
   "1151340": {
+    "placement": [
+      28
+    ],
     "name": "Fallout 76",
     "developers": [
       "Bethesda Game Studios"
@@ -870,6 +954,9 @@
     "release_date": "14 Apr, 2020"
   },
   "1203620": {
+    "placement": [
+      29
+    ],
     "name": "Enshrouded",
     "developers": [
       "Keen Games GmbH"
@@ -902,6 +989,9 @@
     "release_date": "24 Jan, 2024"
   },
   "2340520": {
+    "placement": [
+      30
+    ],
     "name": "Tales of Seikyu",
     "developers": [
       "ACE Entertainment"
@@ -931,6 +1021,9 @@
     "release_date": "21 May, 2025"
   },
   "1245620": {
+    "placement": [
+      31
+    ],
     "name": "ELDEN RING",
     "developers": [
       "FromSoftware, Inc."
@@ -965,6 +1058,9 @@
     "release_date": "24 Feb, 2022"
   },
   "632360": {
+    "placement": [
+      32
+    ],
     "name": "Risk of Rain 2",
     "developers": [
       "Hopoo Games"
@@ -1001,6 +1097,9 @@
     "release_date": "11 Aug, 2020"
   },
   "281990": {
+    "placement": [
+      33
+    ],
     "name": "Stellaris",
     "developers": [
       "Paradox Development Studio"
@@ -1031,6 +1130,9 @@
     "release_date": "9 May, 2016"
   },
   "1401590": {
+    "placement": [
+      34
+    ],
     "name": "Disney Dreamlight Valley",
     "developers": [
       "Gameloft"
@@ -1061,6 +1163,9 @@
     "release_date": "5 Dec, 2023"
   },
   "1190970": {
+    "placement": [
+      35
+    ],
     "name": "House Flipper 2",
     "developers": [
       "Frozen District"
@@ -1096,6 +1201,9 @@
     "release_date": "14 Dec, 2023"
   },
   "1244090": {
+    "placement": [
+      36
+    ],
     "name": "Sea of Stars",
     "developers": [
       "Sabotage Studio"
@@ -1129,6 +1237,9 @@
     "release_date": "28 Aug, 2023"
   },
   "39210": {
+    "placement": [
+      37
+    ],
     "name": "FINAL FANTASY XIV Online",
     "developers": [
       "Square Enix"
@@ -1162,6 +1273,9 @@
     "release_date": "18 Feb, 2014"
   },
   "270880": {
+    "placement": [
+      38
+    ],
     "name": "American Truck Simulator",
     "developers": [
       "SCS Software"
@@ -1196,6 +1310,9 @@
     "release_date": "2 Feb, 2016"
   },
   "294100": {
+    "placement": [
+      39
+    ],
     "name": "RimWorld",
     "developers": [
       "Ludeon Studios"
@@ -1225,6 +1342,9 @@
     "release_date": "17 Oct, 2018"
   },
   "1569580": {
+    "placement": [
+      40
+    ],
     "name": "Blue Prince",
     "developers": [
       "Dogubomb"
@@ -1253,6 +1373,9 @@
     "release_date": "10 Apr, 2025"
   },
   "2531310": {
+    "placement": [
+      41
+    ],
     "name": "The Last of Us\u2122 Part II Remastered",
     "developers": [
       "Naughty Dog LLC",
@@ -1283,6 +1406,9 @@
     "release_date": "3 Apr, 2025"
   },
   "490110": {
+    "placement": [
+      42
+    ],
     "name": "The Precinct",
     "developers": [
       "Fallen Tree Games Ltd"
@@ -1312,6 +1438,9 @@
     "release_date": "13 May, 2025"
   },
   "1466060": {
+    "placement": [
+      43
+    ],
     "name": "Tainted Grail: The Fall of Avalon",
     "developers": [
       "Questline"
@@ -1341,6 +1470,9 @@
     "release_date": "30 Mar, 2023"
   },
   "2001120": {
+    "placement": [
+      44
+    ],
     "name": "Split Fiction",
     "developers": [
       "Hazelight Studios"
@@ -1377,6 +1509,9 @@
     "release_date": "6 Mar, 2025"
   },
   "1104280": {
+    "placement": [
+      45
+    ],
     "name": "The Slormancer",
     "developers": [
       "Slormite Studios"
@@ -1408,6 +1543,9 @@
     "release_date": "13 May, 2025"
   },
   "3240220": {
+    "placement": [
+      47
+    ],
     "name": "Grand Theft Auto V Enhanced",
     "developers": [
       "Rockstar North"
@@ -1442,6 +1580,9 @@
     "release_date": "4 Mar, 2025"
   },
   "2385530": {
+    "placement": [
+      48
+    ],
     "name": "PGA TOUR 2K25",
     "developers": [
       "HB Studios"
@@ -1478,6 +1619,9 @@
     "release_date": "27 Feb, 2025"
   },
   "2933620": {
+    "placement": [
+      49
+    ],
     "name": "Call of Duty\u00ae: Black Ops 6",
     "developers": [
       "Treyarch",
